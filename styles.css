@@ -1,6 +1,19 @@
-h1 {
+h1, h2 {
     color: cornsilk;
     background-color: coral;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
+}
+
+.homepage-intro, .homepage-navigation {
+    text-align: center;
+    font-size: 20px;
+}
+
+.homepage-navigation {
+    background-color: antiquewhite;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
